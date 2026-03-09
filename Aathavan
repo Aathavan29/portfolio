@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Portfolio</title>
+<style>
+body{
+font-family: Arial;
+text-align:center;
+background:#f4f4f4;
+}
+header{
+background:#333;
+color:white;
+padding:20px;
+}
+section{
+padding:20px;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>Your Name</h1>
+<p>Mechanical Engineering Student</p>
+</header>
+
+<section>
+<h2>About Me</h2>
+<p>I am a Mechanical Engineering student interested in design and technology.</p>
+</section>
+
+<section>
+<h2>Skills</h2>
+<p>CAD | SolidWorks | Python | HTML</p>
+</section>
+
+<section>
+<h2>Projects</h2>
+<p>1. Smart Bottle</p>
+<p>2. Adjustable Smart Desk</p>
+</section>
+
+<section>
+<h2>Contact</h2>
+<p>Email: yourmail@gmail.com</p>
+</section>
+
+</body>
+</html>
